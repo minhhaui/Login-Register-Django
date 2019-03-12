@@ -1,7 +1,8 @@
-DEPENDENCY
+#DEPENDENCY
+
       https://github.com/minhhaui/First-App-With-Django
 
-More:
+#More:
 
 - Django user registration and login with form validation
 
