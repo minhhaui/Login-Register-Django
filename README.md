@@ -1,8 +1,8 @@
-#DEPENDENCY
+# DEPENDENCY
 
       https://github.com/minhhaui/First-App-With-Django
 
-#More:
+# More:
 
 - Django user registration and login with form validation
 
@@ -17,5 +17,5 @@
   pip install -e git://github.com/dwaiter/django-bcrypt.git#egg=django-bcrypt
   
   
-# more information bcrypt :
+# More Information bcrypt :
     https://pypi.org/project/django-bcrypt/
